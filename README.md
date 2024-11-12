@@ -37,7 +37,7 @@ To install and run the app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/Anirban96Roy/SwiftUI-GuessTheWord.git
    ```
 2. Open the project in **Xcode**.
 3. Ensure you’re using **Xcode with SwiftUI** support.
