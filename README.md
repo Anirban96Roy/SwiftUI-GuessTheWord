@@ -44,12 +44,9 @@ To install and run the app:
 4. Run the app on a simulator or device.
 
 ## Screenshots
-![Screenshot 1](![1](https://github.com/user-attachments/assets/96eae9cf-8ad5-4258-bf05-c88edb743a57)
-)
-![Screenshot 2](![2](https://github.com/user-attachments/assets/d0780a78-5dd2-4104-9357-14bf342e5ed5)
-)
-![Screenshot 3](![3](https://github.com/user-attachments/assets/0f124860-280b-4c86-961d-eec3422d71cd)
-)
+![Screenshot 1](https://github.com/user-attachments/assets/96eae9cf-8ad5-4258-bf05-c88edb743a57)
+![Screenshot 2](https://github.com/user-attachments/assets/d0780a78-5dd2-4104-9357-14bf342e5ed5)
+![Screenshot 3](https://github.com/user-attachments/assets/0f124860-280b-4c86-961d-eec3422d71cd)
 
 
 ## Future Improvements
